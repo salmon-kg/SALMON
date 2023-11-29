@@ -1,4 +1,8 @@
-# SALMON
-Syntactically Analysed and Language Model Optimised Natural Language
+# SALMON — Syntactically Analysed and Language Model Optimised Natural Language
 
-With the Evolution of Generative AI, we leverage LLMs to Identify the Triples from Natural Language Text. From Prompt Engineering to Fine-tuning, we performed various experiments To find the best-fit prompt and parameters for the Triple Extraction Task. We have also integrated the SynSim Approach to Investigate its effectiveness in LLMs as well. We used our Annotated Dataset (TinyButMighty: Project-1) to evaluate the performance of applied LLMs.
+With the evolution of generative AI, we leverage Large Language Models (LLMs) to identify the triples from natural language text.  
+From prompt engineering to fine-tuning, we have performed various experiments to find the best-fit prompt and parameters for the triple extraction task.  
+We have also integrated the `SynSim` approach to investigate its effectiveness in LLMs as well.  
+We have used our annotated dataset (`TinyButMighty`) to evaluate the performance of the applied LLMs.  
+
+---
