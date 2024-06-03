@@ -3,11 +3,11 @@
 With the evolution of generative AI, we leverage Large Language Models (LLMs) to identify the triples from natural language text.  
 
 
-Methodology:
--
+## Methodology:
+
 <h5 align="center">
   Methodology of SALMON approach
-  <img align="center" src="SalmonMethod.png" height="500" alt="...">
+  <img align="center" src="SalmonMethod.png" height="600" alt="...">
 </h5>
 
 - From prompt engineering to fine-tuning, we have performed various experiments to find the best-fit prompt and parameters for the triple extraction task. 
@@ -30,14 +30,14 @@ Methodology:
   1. Calculating Each triple’s similarity score with GT Triples and keeping the highest similarity.
   2. Applying Amnesty or Penalty - based threshold schemes for optimised evaluation
 
-### Algorithm
+## Algorithm
 
 <h2 align="center">
   Applied Threshold on Triple Similarity Measure
   <img align="center" src="img/algo.png" alt="...">
 </h2>
 
-### Performance
+## Performance
 
 <h2 align="center">
   The Performance of GPTs With Different Temperatures and with SALMON approach
@@ -49,15 +49,15 @@ Methodology:
   <img align="center" src="img/perf-gpts.png" alt="...">
 </h2>
 
-Test Files and Data:
-- 
+## Test Files and Data:
+
 - gpt-triple-extractor.py: To extract the triple from text using GPT models i.e., gpt-3.5-turbo, gpt-4, text-davinci-003
 - evalgpt: to evaluate the GPT output with the ground-truth triples. Amnesty/Penalty schemes are on choice.
 
 - Data: Directory contains the data for assesment.
 
-Citation:
--
+## Citation:
+
 Citation will be updated soon
 
 ---
