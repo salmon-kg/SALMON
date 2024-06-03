@@ -5,10 +5,10 @@ With the evolution of generative AI, we leverage Large Language Models (LLMs) to
 
 Methodology:
 -
-<h3 align="center">
+<h5 align="center">
   Methodology of SALMON approach
   <img align="center" src="SalmonMethod.png" alt="...">
-</h3>
+</h5>
 
 - From prompt engineering to fine-tuning, we have performed various experiments to find the best-fit prompt and parameters for the triple extraction task.  
 
