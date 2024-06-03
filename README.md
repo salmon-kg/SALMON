@@ -7,7 +7,7 @@ Methodology:
 -
 <h5 align="center">
   Methodology of SALMON approach
-  <img align="center" src="SalmonMethod.png" height="400" alt="...">
+  <img align="center" src="SalmonMethod.png" height="500" alt="...">
 </h5>
 
 - From prompt engineering to fine-tuning, we have performed various experiments to find the best-fit prompt and parameters for the triple extraction task.  
