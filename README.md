@@ -6,8 +6,8 @@ With the evolution of generative AI, we leverage Large Language Models (LLMs) to
 Methodology:
 -
 <h2 align="center">
-  Methodology of SALMON approach:
-  <img align="center" src="SalmonMethod" alt="...">
+  Methodology of SALMON approach
+  <img align="center" src="SalmonMethod.png" alt="...">
 </h2>
 
 - From prompt engineering to fine-tuning, we have performed various experiments to find the best-fit prompt and parameters for the triple extraction task.  
@@ -17,6 +17,13 @@ Methodology:
 
 Code Files:
 - 
+- gpt-triple-extractor.py: To extract the triple from text using GPT models i.e., gpt-3.5-turbo, gpt-4, text-davinci-003
+- evalgpt: to evaluate the GPT output with the ground-truth triples. Amnesty/Penalty schemes are on choice.
 
+- Data: Directory contains the data for assesment.
+
+Citation:
+-
+Citation will be updated soon
 
 ---
